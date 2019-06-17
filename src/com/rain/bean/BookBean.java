@@ -3,12 +3,12 @@ package com.rain.bean;
 public class BookBean {
 	
 	private int bid;//id
-	private String name;//鍥句功鍚嶇О
-	private String card;//鍥句功鍙�
-	private String autho;//浣滆��
-	private int num;//鍥句功鏁伴噺
-	private String type;//鍥句功鐨勫垎绫�
-	private String press;//鍑虹増绀�
+	private String name;
+	private String card;
+	private String autho;
+	private int num;
+	private String type;
+	private String press;
 	public int getBid() {
 		return bid;
 	}

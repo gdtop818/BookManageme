@@ -2,16 +2,16 @@ package com.rain.bean;
 
 public class HistoryBean {
 	
-	private int hid;//鍊熼槄璁板綍鐨刬d
-	private int aid;//璇昏�呯殑id
-	private int bid;//鍥句功鐨刬d
-	private String card;//鍥句功鍙�
-	private String bookname;//鍥句功鍚嶇О
-	private String adminname;//璇昏�呯殑璐﹀彿
-	private String username;//璇昏�呯殑濮撳悕
-	private String begintime;//鍊熼槄鏃堕棿
-	private String endtime;//瑕佽繕涔︾殑涓栫晫
-	private int status;//琛ㄧず鍊熼槄鐘舵�侊紝1涓烘鍦ㄥ�熼槄锛�2鏄凡缁忚繕涔�
+	private int hid;
+	private int aid;
+	private int bid;
+	private String card;
+	private String bookname;
+	private String adminname;
+	private String username;
+	private String begintime;
+	private String endtime;
+	private int status;
 	public int getHid() {
 		return hid;
 	}

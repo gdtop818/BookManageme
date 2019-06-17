@@ -13,7 +13,6 @@ import com.rain.util.DBUtil;
 public class AdminDao {
 	
 	/**
-	 * 鐧诲綍楠岃瘉鍔熻兘锛屼紶鍏ョ敤鎴峰悕鍜屽瘑鐮侊紝鍦ㄦ暟鎹簱涓煡鎵撅紝濡傛灉鎵惧埌浜嗭紝杩斿洖true锛屾病鎵惧埌鍒欒繑鍥瀎alse
 	 * @param username
 	 * @param password
 	 * @return

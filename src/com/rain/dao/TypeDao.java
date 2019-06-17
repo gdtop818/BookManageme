@@ -11,7 +11,6 @@ import com.rain.util.DBUtil;
 
 public class TypeDao {
 	/**
-	 * 鑾峰彇鎵�鏈夊浘涔︾被鍨嬬殑淇℃伅锛岃繑鍥炴暟缁勫舰寮�
 	 * @return
 	 */
 	public ArrayList<TypeBean> get_ListInfo(){
@@ -38,7 +37,6 @@ public class TypeDao {
 		return tag_Array;
 	}
 	/**
-	 * 淇敼鍥句功鍒嗙被鐨勪俊鎭�
 	 * @param tid
 	 * @param name
 	 */
@@ -58,7 +56,6 @@ public class TypeDao {
 		}
 	}
 	/**
-	 * 娣诲姞涓�涓浘涔﹀垎绫�
 	 * @param name
 	 */
 	public void addBookType(String name) {
@@ -77,7 +74,6 @@ public class TypeDao {
 		}
 	}
 	/**
-	 * 鍒犻櫎涓�涓浘涔﹀垎绫�
 	 * @param tid
 	 */
 	public void deleteBookType(int tid) {

@@ -2,8 +2,8 @@ package com.rain.bean;
 
 public class TypeBean {
 	
-	private int tid;//鍒嗙被鐨刬d
-	private String name;//鍒嗙被鐨勫悕绉�
+	private int tid;
+	private String name;
 	public int getTid() {
 		return tid;
 	}
