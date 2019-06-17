@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebContent/index2.jsp=UTF-8
+encoding//WebContent/login.jsp=UTF-8
+encoding//WebContent/register.jsp=UTF-8
+encoding//src/com/rain/bean/BookBean.java=UTF-8
+encoding//src/com/rain/bean/HistoryBean.java=UTF-8
+encoding//src/com/rain/bean/TypeBean.java=UTF-8
+encoding//src/com/rain/dao/AdminDao.java=UTF-8
+encoding//src/com/rain/dao/BookDao.java=UTF-8
+encoding//src/com/rain/dao/TypeDao.java=UTF-8
